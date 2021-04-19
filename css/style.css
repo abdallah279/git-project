@@ -237,14 +237,14 @@ header .all span{
 .home .home-head .btn a:hover{
     color: #eee;
 }
-.home .home-head .btn4 a{
+/* .home .home-head .btn4 a{
     padding: 13.5px 41px;
     font-size: 17px;
 }
 .home .home-head .btn2 a{
     padding: 13px 46px;
     font-size: 17px;
-}
+} */
 .home .big-img{
     position: absolute;
     top: 57%;
