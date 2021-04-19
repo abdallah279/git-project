@@ -223,7 +223,7 @@ header .all span{
 }
 .home .home-head .btn a{
     text-transform: uppercase;
-    padding: 13px 62px;
+    padding: 13px 63px;
     font-size: 17px;
     text-decoration: none;
     color: var(--mainColor);
